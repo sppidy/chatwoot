@@ -45,7 +45,7 @@
     "url-loader": "^2.0.0",
     "v-tooltip": "~2.0.2",
     "vue": "^2.6.0",
-    "vue-axios": "~1.2.2",
+    "vue-axios": "~3.2.4",
     "vue-chartjs": "^3.4.2",
     "vue-clickaway": "~2.1.0",
     "vue-color": "^2.7.1",
